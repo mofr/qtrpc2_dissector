@@ -7,3 +7,8 @@ Installation (Windows)
 - Add the following line to `init.lua` (at the very end)
 
   `dofile(DATA_DIR.."qtrpc2.lua")`
+
+
+Demo screenshot
+------------
+![alt tag](https://raw.githubusercontent.com/mofr/qtrpc2_dissector/master/screenshot.png)
